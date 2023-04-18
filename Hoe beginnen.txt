@@ -1,0 +1,4 @@
+  npm create vite@4.1.0   -----> create project
+  ga binnen file
+  npm install
+  npm run dev
